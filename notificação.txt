@@ -1,0 +1,14 @@
+notificação:
+  - severidade
+    - sucesso
+    - alerta
+    - error
+    - info
+  - mensagem
+    - texto
+  - icone
+    - nome do ícone
+  - botão de ação
+    - texto
+    - descrição
+    - url
